@@ -50,6 +50,7 @@ body, p {
 	font-family: brandfont;
 	src: url(/webfonts/EthnocentricRg-Regular.woff) format('woff');
 	src: url(/webfonts/EthnocentricRg-Regular.woff2) format('woff2');
+	src: url(/webfonts/EthnocentricRg-Regular.ttf) format('truetype');
   }
 
 h1 {
